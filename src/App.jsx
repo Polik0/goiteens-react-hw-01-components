@@ -4,7 +4,7 @@ import Profile from "./components/Profile/profile.jsx";
 
 import friends from "./components/FriendList/friends.json";
 import users from "./components/Profile/user.json";
-import transactions from "./components/TransactionHistory/transactions.json";
+import transactions from "./components/TransactionHistory/Transactions.json";
 
 function App() {
   return (
